@@ -70,7 +70,7 @@ Ask and answer questions over on [MONAI's GitHub Discussions tab](https://github
 ## Links
 - Website: https://monai.io/
 - API documentation (milestone): https://docs.monai.io/
-- API documentation (latest dev): https://docs.monai.io/en/latest/
+- API documentation (1.2.0): https://docs.monai.io/en/1.2.0/
 - Code: https://github.com/Project-MONAI/MONAI
 - Project tracker: https://github.com/Project-MONAI/MONAI/projects
 - Issue tracker: https://github.com/Project-MONAI/MONAI/issues
